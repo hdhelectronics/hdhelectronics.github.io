@@ -288,6 +288,8 @@
       padding: 40px 20px;
       font-size: 13px;
       color: var(--text-muted);
+
+    }
     /* FORCE OVERRIDES — HERO LOGO + SPACING */
 .hero {
   padding-top: 50px !important;   /* reduces black space above */
