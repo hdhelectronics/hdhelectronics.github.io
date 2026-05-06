@@ -1,4 +1,3 @@
-<style>
     :root {
       --bg-page-top: #0a0a0a;
       --bg-page-bottom: #121212;
@@ -294,7 +293,6 @@
   padding-top: 50px !important;   /* reduces black space above */
   padding-bottom: 120px;          /* keeps bottom spacing clean */
 }
-<style>
 .hero-logo {
   height: 120px !important;       /* 50% bigger */
   width: auto !important;
