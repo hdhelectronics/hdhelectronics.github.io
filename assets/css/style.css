@@ -72,6 +72,25 @@
 
     .nav-links a:hover { color: var(--accent); }
 
+/* FIX HEADER ALIGNMENT FOR HDH ELECTRONICS */
+header,
+.nav,
+.logo-area {
+  justify-content: center !important;
+  text-align: center !important;
+}
+
+.logo-area {
+  flex-direction: column !important;
+}
+
+.logo-text {
+  text-align: center !important;
+  width: 100%;
+}
+
+
+
     /* HERO */
     .hero { padding: 40px 0 60px; }
 
